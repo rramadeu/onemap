@@ -10,7 +10,7 @@ Gabriel R A Margarido, Marcelo Mollinari and A Augusto F Garcia. Later on, Rodri
 
 It has been available on CRAN for several years
 (http://cran.r-project.org/web/packages/onemap/index.html). Its last
-version was updated on 2013-09-09. CRAN has OneMap's stable version,
+version was updated on 2017-10-18. CRAN has OneMap's stable version,
 which is recommended for most users.
 
 This github page has its version under development. New functions will
